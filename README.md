@@ -1,8 +1,3 @@
-# React + Vite
+# Highlighted Navbar in React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a simple navigation bar with the current page highlighted. This is done just for a simple tutorial purpose. Full tutorial: [React Navbar Highlight Current Page with NavLink](https://kingscoder.com/react-navbar-highlight-current-page-with-navlink/)
